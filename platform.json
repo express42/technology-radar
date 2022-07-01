@@ -27,8 +27,8 @@
       "name": "Infrastructure"
     },
     {
-      "id": "frameworks",
-      "name": "Frameworks"
+      "id": "tools",
+      "name": "Tools"
     },
     {
       "id": "languages",
@@ -54,22 +54,6 @@
       "key": "kubernetes",
       "id": "kubernetes",
       "title": "Kubernetes",
-      "quadrant": "infrastructure"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "trial",
-          "date": "2020-08-06T00:00:00.000Z",
-          "license": "Apache License 2.0",
-          "description": "An open platform for building developer portals."
-        }
-      ],
-      "url": "#",
-      "key": "backstage",
-      "id": "backstage",
-      "title": "Backstage",
       "quadrant": "infrastructure"
     },
     {
@@ -134,6 +118,38 @@
       "key": "nexus",
       "id": "nexus",
       "title": "Nexus",
+      "quadrant": "infrastructure"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "license": "Apache License 2.0",
+          "description": "Helm is a tool that streamlines installing and managing Kubernetes applications. Think of it like apt/yum/homebrew for Kubernetes."
+        }
+      ],
+      "url": "#",
+      "key": "helm",
+      "id": "helm",
+      "title": "helm",
+      "quadrant": "tools"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "trial",
+          "date": "2020-08-06T00:00:00.000Z",
+          "license": "Apache License 2.0",
+          "description": "An open platform for building developer portals."
+        }
+      ],
+      "url": "#",
+      "key": "backstage",
+      "id": "backstage",
+      "title": "Backstage",
       "quadrant": "infrastructure"
     },
     {
