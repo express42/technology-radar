@@ -47,7 +47,7 @@
           "ringId": "trial",
           "date": "2020-08-06T00:00:00.000Z",
           "license": "Apache License 2.0",
-          "description": "An open platform for building developer portals"
+          "description": "An open platform for building developer portals."
         }
       ],
       "url": "#",
@@ -62,8 +62,24 @@
           "moved": 0,
           "ringId": "adopt",
           "date": "2020-08-06T00:00:00.000Z",
+          "license": "GNU Lesser General Public License v3.0",
+          "description": "Open-source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells on 17 programming languages."
+        }
+      ],
+      "url": "#",
+      "key": "sonarqube",
+      "id": "sonarqube",
+      "title": "SonarQube",
+      "quadrant": "infrastructure"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
           "license": "Eclipse Public License 1.0",
-          "description": "Binary repository management"
+          "description": "Binary repository management."
         }
       ],
       "url": "#",
@@ -94,7 +110,7 @@
           "moved": 0,
           "ringId": "trial",
           "date": "2020-08-06T00:00:00.000Z",
-          "license": "3-clause BSD",
+          "license": "BSD 3-Clause 'New' or 'Revised' License",
           "description": ""
         }
       ],
