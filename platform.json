@@ -44,7 +44,7 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "assess",
+          "ringId": "trial",
           "date": "2020-08-06T00:00:00.000Z",
           "license": "Apache License 2.0",
           "description": "An open platform for building developer portals"
@@ -92,7 +92,7 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "assess",
+          "ringId": "trial",
           "date": "2020-08-06T00:00:00.000Z",
           "license": "3-clause BSD",
           "description": ""
