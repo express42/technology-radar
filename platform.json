@@ -126,15 +126,31 @@
           "moved": 0,
           "ringId": "adopt",
           "date": "2020-08-06T00:00:00.000Z",
-          "license": "Apache License 2.0",
-          "description": "Helm is a tool that streamlines installing and managing Kubernetes applications. Think of it like apt/yum/homebrew for Kubernetes."
+          "license": "GNU Affero General Public License v3.0",
+          "description": "The open-source platform for monitoring and observability. Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored. Create, explore, and share dashboards with your team and foster a data-driven culture."
         }
       ],
       "url": "#",
-      "key": "helm",
-      "id": "helm",
-      "title": "helm",
-      "quadrant": "tools"
+      "key": "grafana",
+      "id": "grafana",
+      "title": "Grafana",
+      "quadrant": "infrastructure"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "license": "Apache License 2.0",
+          "description": "Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from configured targets at given intervals, evaluates rule expressions, displays the results, and can trigger alerts when specified conditions are observed."
+        }
+      ],
+      "url": "#",
+      "key": "prometheus",
+      "id": "prometheus",
+      "title": "Prometheus",
+      "quadrant": "infrastructure"
     },
     {
       "timeline": [
@@ -151,6 +167,22 @@
       "id": "backstage",
       "title": "Backstage",
       "quadrant": "infrastructure"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "license": "Apache License 2.0",
+          "description": "Helm is a tool that streamlines installing and managing Kubernetes applications. Think of it like apt/yum/homebrew for Kubernetes."
+        }
+      ],
+      "url": "#",
+      "key": "helm",
+      "id": "helm",
+      "title": "Helm",
+      "quadrant": "tools"
     },
     {
       "timeline": [
