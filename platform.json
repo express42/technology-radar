@@ -46,7 +46,7 @@
           "moved": 0,
           "ringId": "trial",
           "date": "2020-08-06T00:00:00.000Z",
-          "description": "Apache License 2.0"
+          "description": "License: Apache License 2.0 \nDescription: An open platform for building developer portals"
         }
       ],
       "url": "#",
@@ -59,7 +59,7 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "use",
+          "ringId": "adopt",
           "date": "2020-08-06T00:00:00.000Z",
           "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
         }
@@ -74,7 +74,7 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "use",
+          "ringId": "adopt",
           "date": "2020-08-06T00:00:00.000Z"
         }
       ],
@@ -88,7 +88,7 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "use",
+          "ringId": "adopt",
           "date": "2020-08-06T00:00:00.000Z"
         }
       ],
@@ -102,7 +102,7 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "use",
+          "ringId": "adopt",
           "date": "2020-08-06T00:00:00.000Z"
         }
       ],
@@ -116,7 +116,7 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "use",
+          "ringId": "adopt",
           "date": "2021-02-09T00:00:00.000Z"
         }
       ],
