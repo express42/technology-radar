@@ -44,7 +44,7 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "trial",
+          "ringId": "assess",
           "date": "2020-08-06T00:00:00.000Z",
           "license": "Apache License 2.0",
           "description": "An open platform for building developer portals"
@@ -61,56 +61,32 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2020-08-06T00:00:00.000Z"
+          "date": "2020-08-06T00:00:00.000Z",
+          "license": "Python Software Foundation License",
+          "description": ""
         }
       ],
       "url": "#",
-      "key": "webpack",
-      "id": "webpack",
-      "title": "Webpack",
-      "quadrant": "frameworks"
+      "key": "python",
+      "id": "python",
+      "title": "Python",
+      "quadrant": "languages"
     },
     {
       "timeline": [
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2020-08-06T00:00:00.000Z"
+          "date": "2020-08-06T00:00:00.000Z",
+          "license": "3-clause BSD",
+          "description": ""
         }
       ],
       "url": "#",
-      "key": "react",
-      "id": "react",
-      "title": "React",
-      "quadrant": "frameworks"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "adopt",
-          "date": "2020-08-06T00:00:00.000Z"
-        }
-      ],
-      "url": "#",
-      "key": "code-reviews",
-      "id": "code-reviews",
-      "title": "Code Reviews",
-      "quadrant": "process"
-    },
-        {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "adopt",
-          "date": "2021-02-09T00:00:00.000Z"
-        }
-      ],
-      "url": "#",
-      "key": "roadie",
-      "id": "roadie",
-      "title": "Managed Backstage",
-      "quadrant": "infrastructure"
+      "key": "go",
+      "id": "go",
+      "title": "Go",
+      "quadrant": "languages"
     }
   ]
 }
