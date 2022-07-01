@@ -1,8 +1,8 @@
 {
   "rings": [
     {
-      "id": "adopt",
-      "name": "ADOPT",
+      "id": "use",
+      "name": "USE",
       "color": "#93c47d"
     },
     {
@@ -59,7 +59,7 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "adopt",
+          "ringId": "use",
           "date": "2020-08-06T00:00:00.000Z"
         }
       ],
@@ -73,7 +73,7 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "adopt",
+          "ringId": "use",
           "date": "2020-08-06T00:00:00.000Z"
         }
       ],
@@ -87,7 +87,7 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "adopt",
+          "ringId": "use",
           "date": "2020-08-06T00:00:00.000Z"
         }
       ],
@@ -101,7 +101,7 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "adopt",
+          "ringId": "use",
           "date": "2021-02-09T00:00:00.000Z"
         }
       ],
