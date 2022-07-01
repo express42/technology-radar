@@ -46,7 +46,8 @@
           "moved": 0,
           "ringId": "trial",
           "date": "2020-08-06T00:00:00.000Z",
-          "description": "License: Apache License 2.0<br>Description: an open platсform for building developer portals"
+          "license": "Apache License 2.0",
+          "description": "An open platform for building developer portals"
         }
       ],
       "url": "#",
