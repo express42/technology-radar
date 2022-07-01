@@ -46,7 +46,7 @@
           "moved": 0,
           "ringId": "trial",
           "date": "2020-08-06T00:00:00.000Z",
-          "description": "License: Apache License 2.0 \nDescription: An open platform for building developer portals"
+          "description": "License: Apache License 2.0"
         }
       ],
       "url": "#",
@@ -54,21 +54,6 @@
       "id": "backstage",
       "title": "Backstage",
       "quadrant": "infrastructure"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "adopt",
-          "date": "2020-08-06T00:00:00.000Z",
-          "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
-        }
-      ],
-      "url": "#",
-      "key": "typescript",
-      "id": "typescript",
-      "title": "TypeScript",
-      "quadrant": "languages"
     },
     {
       "timeline": [
