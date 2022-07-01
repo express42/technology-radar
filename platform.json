@@ -44,6 +44,22 @@
       "timeline": [
         {
           "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "license": "Apache License 2.0",
+          "description": "Open source system for managing containerized applications across multiple hosts. It provides basic mechanisms for deployment, maintenance, and scaling of applications."
+        }
+      ],
+      "url": "#",
+      "key": "kubernetes",
+      "id": "kubernetes",
+      "title": "kubernetes",
+      "quadrant": "infrastructure"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
           "ringId": "trial",
           "date": "2020-08-06T00:00:00.000Z",
           "license": "Apache License 2.0",
