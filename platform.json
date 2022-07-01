@@ -1,8 +1,8 @@
 {
   "rings": [
     {
-      "id": "use",
-      "name": "USE",
+      "id": "adopt",
+      "name": "ADOPT",
       "color": "#93c47d"
     },
     {
@@ -44,16 +44,16 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "use",
+          "ringId": "trial",
           "date": "2020-08-06T00:00:00.000Z",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+          "description": "Apache License 2.0"
         }
       ],
       "url": "#",
-      "key": "javascript",
-      "id": "javascript",
-      "title": "JavaScript",
-      "quadrant": "languages"
+      "key": "backstage",
+      "id": "backstage",
+      "title": "Backstage",
+      "quadrant": "infrastructure"
     },
     {
       "timeline": [
