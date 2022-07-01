@@ -78,6 +78,22 @@
           "moved": 0,
           "ringId": "adopt",
           "date": "2020-08-06T00:00:00.000Z",
+          "license": "Mozilla Public License 2.0",
+          "description": "Vault is a tool for securely accessing secrets. A secret is anything that you want to tightly control access to, such as API keys, passwords, certificates, and more. Vault provides a unified interface to any secret, while providing tight access control and recording a detailed audit log."
+        }
+      ],
+      "url": "#",
+      "key": "vault",
+      "id": "vault",
+      "title": "HashiCorp Vault",
+      "quadrant": "infrastructure"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
           "license": "GNU Lesser General Public License v3.0",
           "description": "Open-source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells on 17 programming languages."
         }
@@ -134,7 +150,7 @@
       "key": "go",
       "id": "go",
       "title": "Go",
-      "quadrant": "languages"
+      "quadrant": "infrastructure"
     }
   ]
 }
