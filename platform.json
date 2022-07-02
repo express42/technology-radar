@@ -35,8 +35,8 @@
       "name": "Languages"
     },
     {
-      "id": "process",
-      "name": "Process"
+      "id": "techniques",
+      "name": "Techniques"
     }
   ],
   "entries": [
@@ -311,6 +311,22 @@
       "id": "go",
       "title": "Go",
       "quadrant": "languages"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "license": "",
+          "description": "Infrastructure as Code (IaC) is the managing and provisioning of infrastructure through code instead of through manual processes."
+        }
+      ],
+      "url": "#",
+      "key": "iac",
+      "id": "iac",
+      "title": "Infrastructure as Code",
+      "quadrant": "techniques"
     }
   ]
 }
