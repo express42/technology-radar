@@ -172,6 +172,54 @@
       "timeline": [
         {
           "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "license": "Apache License 2.0",
+          "description": "OpenSearch is a community-driven, open source fork of Elasticsearch and Kibana following the licence change in early 2021."
+        }
+      ],
+      "url": "#",
+      "key": "opensearch",
+      "id": "opensearch",
+      "title": "OpenSearch",
+      "quadrant": "infrastructure"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "trial",
+          "date": "2020-08-06T00:00:00.000Z",
+          "license": "Apache License 2.0",
+          "description": "Keycloak is an Open Source Identity and Access Management solution for modern Applications and Services."
+        }
+      ],
+      "url": "#",
+      "key": "keycloak",
+      "id": "keycloak",
+      "title": "Keycloak",
+      "quadrant": "infrastructure"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "trial",
+          "date": "2020-08-06T00:00:00.000Z",
+          "license": "Apache License 2.0",
+          "description": "Open Policy Agent (OPA) is an open source, general-purpose policy engine that enables unified, context-aware policy enforcement across the entire stack."
+        }
+      ],
+      "url": "#",
+      "key": "open-policy-agent",
+      "id": "open-policy-agent",
+      "title": "Open Policy Agent",
+      "quadrant": "infrastructure"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
           "ringId": "trial",
           "date": "2020-08-06T00:00:00.000Z",
           "license": "Apache License 2.0",
