@@ -327,6 +327,22 @@
       "id": "iac",
       "title": "Infrastructure as Code",
       "quadrant": "techniques"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "trial",
+          "date": "2020-08-06T00:00:00.000Z",
+          "license": "",
+          "description": "Security Policy as Code is an approach to policy management in which policies are defined, updated, shared, and enforced using code."
+        }
+      ],
+      "url": "#",
+      "key": "security-policy-as-code",
+      "id": "security-policy-as-code",
+      "title": "Security Policy as Code",
+      "quadrant": "techniques"
     }
   ]
 }
