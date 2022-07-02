@@ -62,6 +62,22 @@
           "moved": 0,
           "ringId": "adopt",
           "date": "2020-08-06T00:00:00.000Z",
+          "license": "MIT License",
+          "description": "GitLab is an open source end-to-end software development platform with built-in version control, issue tracking, code review, CI/CD, and more. Self-host GitLab on your own servers, in a container, or on a cloud provider."
+        }
+      ],
+      "url": "#",
+      "key": "gitlab",
+      "id": "gitlab",
+      "title": "GitLab",
+      "quadrant": "infrastructure"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
           "license": "Apache License 2.0",
           "description": "ArgoCD is a declarative GitOps tool built to deploy applications to Kubernetes."
         }
@@ -182,6 +198,38 @@
       "key": "helm",
       "id": "helm",
       "title": "Helm",
+      "quadrant": "tools"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "license": "GNU General Public License",
+          "description": "Ansible is a radically simple IT automation system. It handles configuration management, application deployment, cloud provisioning, ad-hoc task execution, network automation, and multi-node orchestration. Ansible makes complex changes like zero-downtime rolling updates with load balancers easy."
+        }
+      ],
+      "url": "#",
+      "key": "ansible",
+      "id": "ansible",
+      "title": "Ansible",
+      "quadrant": "tools"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "license": "Mozilla Public License 2.0",
+          "description": "Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions."
+        }
+      ],
+      "url": "#",
+      "key": "terraform",
+      "id": "terraform",
+      "title": "Terraform",
       "quadrant": "tools"
     },
     {
