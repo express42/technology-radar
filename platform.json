@@ -236,6 +236,38 @@
       "timeline": [
         {
           "moved": 0,
+          "ringId": "trial",
+          "date": "2020-08-06T00:00:00.000Z",
+          "license": "",
+          "description": "Express 42 tool to measure SDLC and technical maturity."
+        }
+      ],
+      "url": "#",
+      "key": "sdlc-and-tm-monitoring",
+      "id": "sdlc-and-tm-monitoring",
+      "title": "SDLC and TM monitoring",
+      "quadrant": "infrastructure"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "trial",
+          "date": "2020-08-06T00:00:00.000Z",
+          "license": "",
+          "description": "Система управления компетенциями, которая объединяет развитие сотрудников и цели компании."
+        }
+      ],
+      "url": "#",
+      "key": "starsmap",
+      "id": "starsmap",
+      "title": "StarsMap",
+      "quadrant": "infrastructure"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
           "ringId": "adopt",
           "date": "2020-08-06T00:00:00.000Z",
           "license": "Apache License 2.0",
